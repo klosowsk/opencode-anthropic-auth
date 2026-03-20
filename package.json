@@ -1,7 +1,13 @@
 {
-  "name": "opencode-anthropic-auth",
+  "name": "@rklosowski/opencode-anthropic-auth",
   "version": "0.0.13",
+  "description": "OpenCode Anthropic OAuth plugin (archived fork)",
   "main": "./index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klosowsk/opencode-anthropic-auth"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@opencode-ai/plugin": "^0.4.45"
   },
