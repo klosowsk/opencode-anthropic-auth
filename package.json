@@ -3,6 +3,9 @@
   "version": "0.0.13",
   "description": "OpenCode Anthropic OAuth plugin (archived fork)",
   "main": "./index.mjs",
+  "files": [
+    "index.mjs"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/klosowsk/opencode-anthropic-auth"
